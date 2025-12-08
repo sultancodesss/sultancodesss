@@ -1,3 +1,6 @@
+# 💫 About Me:
+I'm an enthusiastic learner passionate about CSE .Artificial Intelligence, Machine Learning, and Programming. I love exploring how technology can solve real-world problems and make life easier.<br><br>Along with coding, I create digital content — including videos and educational posts — to share knowledge and inspire others to start their tech journey. My creative side as a writer and video editor helps me present technical ideas in a simple and engaging way.<br><br>Currently, I'm pursuing my studies at Quad AI School of Technology, where I'm building a strong foundation in programming and AI. I'm open to learning opportunities, collaborations, and projects that allow me to combine creativity with technology.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sultan_codes?igsh=MTI2NXJ6bjQ4d2ZyMw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sultan-codes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@sultan_codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultancodes12@gmail.com) 
