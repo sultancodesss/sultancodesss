@@ -1,3 +1,11 @@
+
+
+
+<img width="2172" height="724" alt="ChatGPT Image Sep 1, 2026, 04_50_51 PM" src="https://github.com/user-attachments/assets/2934e595-2da6-4027-8188-7fb57f7a5cc5" />
+
+
+
+
 # 💫 About Me:
 I'm an enthusiastic learner passionate about CSE .Artificial Intelligence, Machine Learning, and Programming. I love exploring how technology can solve real-world problems and make life easier.<br><br>Along with coding, I create digital content — including videos and educational posts — to share knowledge and inspire others to start their tech journey. My creative side as a writer and video editor helps me present technical ideas in a simple and engaging way.<br><br>Currently, I'm pursuing my studies at Quad AI School of Technology, where I'm building a strong foundation in programming and AI. I'm open to learning opportunities, collaborations, and projects that allow me to combine creativity with technology.
 
