@@ -1,6 +1,14 @@
+<!-- ══════════════════════════ 🖼️ IMAGES ══════════════════════════ -->
+
+<!-- HOW TO MAKE THIS IMAGE PERMANENT (pick ONE, then paste its URL into the src below):
+     1. Best: commit the PNG into this repo as assets/banner.png, then use src="./assets/banner.png"
+     2. Also good: drag the PNG into a GitHub issue/comment and copy the github.com/user-attachments/assets/... link
+     3. Temporary: the Genspark link already in place (needs a signed-in session, so it may not render for visitors) -->
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/2934e595-2da6-4027-8188-7fb57f7a5cc5" alt="Mohd Sultan — AI & Machine Learning Developer banner" />
+  <img width="100%" src="https://www.genspark.ai/api/files/s/U4EncKnb" alt="Mohd Sultan — AI &amp; Machine Learning Developer banner" />
 </p>
+
+<br/>
 
 <h1 align="center">Hi there, I'm Mohd Sultan 👋</h1>
 
@@ -53,7 +61,7 @@ I'm an enthusiastic learner passionate about CSE, Artificial Intelligence, Machi
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Hosting & Cloud**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
