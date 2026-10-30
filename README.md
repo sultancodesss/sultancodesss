@@ -1,11 +1,9 @@
 <!-- ══════════════════════════ 🖼️ IMAGES ══════════════════════════ -->
 
-<!-- HOW TO MAKE THIS IMAGE PERMANENT (pick ONE, then paste its URL into the src below):
-     1. Best: commit the PNG into this repo as assets/banner.png, then use src="./assets/banner.png"
-     2. Also good: drag the PNG into a GitHub issue/comment and copy the github.com/user-attachments/assets/... link
-     3. Temporary: the Genspark link already in place (needs a signed-in session, so it may not render for visitors) -->
+<!-- ⚠️ The banner must be committed to THIS repo. Upload it to assets/banner.png and the line below works.
+     Do NOT use a /api/files/... or private session link here — GitHub's image proxy gets 403 and shows a broken image. -->
 <p align="center">
-  <img width="100%" src="https://www.genspark.ai/api/files/s/U4EncKnb" alt="Mohd Sultan — AI &amp; Machine Learning Developer banner" />
+  <img width="100%" src="./assets/banner.png" alt="Mohd Sultan — AI &amp; Machine Learning Developer banner" />
 </p>
 
 <br/>
