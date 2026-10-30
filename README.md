@@ -1,11 +1,15 @@
-<!-- ══════════════════════════ 🖼️ IMAGES ══════════════════════════ -->
+<div align="center">
 
-<!-- ⚠️ The banner must be committed to THIS repo. Upload it to assets/banner.png and the line below works.
-     Do NOT use a /api/files/... or private session link here — GitHub's image proxy gets 403 and shows a broken image. -->
-<p align="center">
-  <img width="100%" src="./assets/banner.png" alt="Mohd Sultan — AI &amp; Machine Learning Developer banner" />
-</p>
+<!-- Animated Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6d4aff&background=0d1117&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=0d1117&background=f0f6fc&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6d4aff&background=0d1117&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" alt="Typing Effect" />
+</picture>
 
+</div>
+
+<br/>
 <br/>
 
 <h1 align="center">Hi there, I'm Mohd Sultan 👋</h1>
@@ -108,3 +112,4 @@ I'm an enthusiastic learner passionate about CSE, Artificial Intelligence, Machi
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
