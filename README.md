@@ -1,115 +1,262 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║ MOHD SULTAN // CYBER DEVELOPER ║
+║ Replace the image links and project links with yours ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6d4aff&background=0d1117&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=0d1117&background=f0f6fc&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6d4aff&background=0d1117&width=800&height=60&lines=SULTAN;AI+%26+ML+Developer" alt="Typing Effect" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:061a12,100:00ff88&height=230&section=header&text=MOHD%20SULTAN&fontSize=52&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=16" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=55&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED%3A+MOHD+SULTAN;%3E+AI+%26+MACHINE+LEARNING+DEVELOPER;%3E+BUILDING+THE+FUTURE+WITH+CODE" alt="Terminal typing animation" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=sultancodesss&style=for-the-badge&color=00ff88&label=SYSTEM+VISITS" alt="Profile visits" />
+
+<br /><br />
+
+<a href="https://github.com/sultancodesss">
+<img src="https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/sultan-codes/">
+<img src="https://img.shields.io/badge/LinkedIn-010409?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/sultan_codes/">
+<img src="https://img.shields.io/badge/Instagram-010409?style=for-the-badge&logo=instagram&logoColor=00FF88" alt="Instagram" />
+</a>
+<a href="https://x.com/sultan_codes">
+<img src="https://img.shields.io/badge/X-010409?style=for-the-badge&logo=x&logoColor=00FF88" alt="X" />
+</a>
+<a href="mailto:sultancodes12@gmail.com">
+<img src="https://img.shields.io/badge/Email-010409?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" />
+</a>
 
 </div>
 
-<br/>
-<br/>
-
-<h1 align="center">Hi there, I'm Mohd Sultan 👋</h1>
-
-<h3 align="center">AI &amp; Machine Learning Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sultancodesss&icon=0&color=FFE600&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
-# 💫 About Me:
-I'm an enthusiastic learner passionate about CSE, Artificial Intelligence, Machine Learning, and Programming. I love exploring how technology can solve real-world problems and make life easier.<br><br>Along with coding, I create digital content — including videos and educational posts — to share knowledge and inspire others to start their tech journey. My creative side as a writer and video editor helps me present technical ideas in a simple and engaging way.<br><br>Currently, I'm pursuing my studies at **Quad AI School of Technology**, where I'm building a strong foundation in programming and AI. I'm open to learning opportunities, collaborations, and projects that allow me to combine creativity with technology.
+<div align="center">
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.instagram.com/sultan_codes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/sultan-codes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/sultan_codes" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:sultancodes12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ CYBER PROFILE SYSTEM ║
+╠══════════════════════════════════════════════════════════════╣
+║ USER : MOHD SULTAN ║
+║ ROLE : AI & MACHINE LEARNING DEVELOPER ║
+║ LOCATION : QUAD AI SCHOOL OF TECHNOLOGY ║
+║ STATUS : ONLINE / LEARNING / BUILDING ║
+║ ACCESS : PUBLIC DEVELOPER PROFILE ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-# 💻 Tech Stack:
+</div>
 
-**Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+## `./about-me`
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<div align="center">
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**Hosting & Cloud**
-![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### `whoami`
 
-**Tools & Design**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+```bash
+$ whoami
+mohd-sultan
 
-# 📊 GitHub Stats:
+$ role
+AI & Machine Learning Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sultancodesss&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=sultancodesss&theme=dark&hide_border=false" alt="GitHub streak" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sultancodesss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
-</p>
+$ mission
+Build useful technology that solves
+real-world problems.
 
-## 🏆 GitHub Trophies
+$ current_status
+Learning - Building - Sharing
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sultancodesss&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
+I’m **Mohd Sultan**, a technology learner focused on computer science, artificial intelligence, machine learning, and software development.
 
-### ✍️ Random Dev Quote
+I also create educational and digital content to explain what I learn in a simple and engaging way.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
-</p>
+</td>
 
-### 🔝 Top Contributed Repo
+<td width="45%" align="center">
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sultancodesss&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-</p>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80" width="330" alt="Cyber technology workspace" />
 
----
+<br /><br />
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/sultancodesss">sultancodesss</a></i>
-</p>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=050505" alt="Online status" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+</tr>
+</table>
 
+</div>
+
+## `./system-info`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ SYSTEM INFORMATION │
+├─────────────────────────────────────────────────────────────┤
+│ [+] Education : Quad AI School of Technology │
+│ [+] Primary Focus : AI / ML / Software Development │
+│ [+] Creative Work : Educational Videos / Digital Content │
+│ [+] Current Mode : Learn → Build → Share │
+│ [+] Collaboration : Open to interesting projects │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## `./skills`
+
+<div align="center">
+
+### `programming_languages`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,powershell&theme=dark" alt="Programming languages" />
+
+### `frameworks_and_libraries`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,bootstrap,numpy,pandas&theme=dark" alt="Frameworks and libraries" />
+
+### `databases_and_backend`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" alt="Databases and backend tools" />
+
+### `cloud_and_deployment`
+
+<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,render&theme=dark" alt="Cloud and deployment tools" />
+
+### `developer_tools`
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Developer tools" />
+
+### `design_and_analytics`
+
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" alt="Design tools" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/PYTHON-00FF88?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-00FF88?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" />
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-00FF88?style=for-the-badge&logo=lightning&logoColor=black" />
+
+</div>
+
+> Remove any technology that you have not actually used. The visual theme is inspired by cybersecurity interfaces, but it does not claim professional penetration-testing experience.
+
+## `./projects`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `PROJECT_01`
+
+```text
+┌──────────────────────────────┐
+│ AI / MACHINE LEARNING │
+├──────────────────────────────┤
+│ Build an AI project that │
+│ solves a practical problem. │
+│ │
+│ STATUS: IN DEVELOPMENT │
+└──────────────────────────────┘
+```
+
+<a href="https://github.com/sultancodesss">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Open repository" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `PROJECT_02`
+
+```text
+┌──────────────────────────────┐
+│ FULL-STACK APPLICATION │
+├──────────────────────────────┤
+│ A useful web application │
+│ built with modern tools. │
+│ │
+│ STATUS: BUILDING │
+└──────────────────────────────┘
+```
+
+<a href="https://github.com/sultancodesss">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Open repository" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!--
+Replace the two project links, names, and descriptions with your actual projects.
+-->
+
+## `./activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sultancodesss&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff&include_all_commits=true" height="175" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=sultancodesss&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="175" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultancodesss&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" height="150" alt="Most-used languages" />
+
+</div>
+
+## `./contributions`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sultancodesss&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution graph" />
+
+</div>
+
+## `./achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sultancodesss&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub trophies" />
+
+</div>
+
+## `./terminal`
+
+```text
+┌──(mohd㉿github)-[~/profile]
+└─$ echo "Keep learning. Keep building. Keep sharing."
+
+ACCESS GRANTED.
+SYSTEM MESSAGE: Thanks for visiting my profile.
+```
+
+<div align="center">
+
+<a href="https://github.com/sultancodesss">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:061a12,100:050505&height=120&section=footer" width="100%" />
+
+</div>
